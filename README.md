@@ -42,7 +42,7 @@ dotnet run --project TempWidget
 ## ⚠ Зависимости
 
 - [.NET Lasted 9.0+](https://dotnet.microsoft.com/en-us/download)
-- [.NET Recommended 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (SDK and ASP.NET Core Runtime 6.0.36)
+- [.NET Recommended 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (sdk 6.0.428 and ASP.NET Core Runtime 6.0.36)
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (через NuGet)
 
 ---
