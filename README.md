@@ -47,6 +47,3 @@ dotnet run --project TempWidget
 
 ---
 
-## 📜 Лицензия
-
-MIT License © 2025
